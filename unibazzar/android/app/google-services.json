@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1027424403546",
+    "project_id": "unibazzar-e331c",
+    "storage_bucket": "unibazzar-e331c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027424403546:android:f0c996bc9816d1a228d863",
+        "android_client_info": {
+          "package_name": "com.example.unibazzar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027424403546-6romc6tpaf5s0asla4okus7tvmvujcab.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.unibazzar",
+            "certificate_hash": "5c894e3e4fe2719cd7f9997483e2f67e4c3b2804"
+          }
+        },
+        {
+          "client_id": "1027424403546-e2be228bd5eftk68q6rjndak3ohc5cto.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa4BWSXZSY9jAu2ie0P6sUCG3sS2GvP4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027424403546-e2be228bd5eftk68q6rjndak3ohc5cto.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1027424403546-7cnkvpsdmdp8ni6eebmgvfq0d0v0m7l4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.unibazzar"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
